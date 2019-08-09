@@ -1,1 +1,1 @@
-"Java project with maven" 
+# Java project with maven
